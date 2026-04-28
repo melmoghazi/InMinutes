@@ -1,0 +1,33 @@
+{
+  "Name_En": "Morocco",
+  "Name_AR": "المغرب",
+  "Language": "Arabic, Berber",
+  "History": "Morocco has a rich history influenced by Berber, Arab, and European cultures. It is known for its historic cities like Marrakech and Fes, and landmarks such as the Hassan II Mosque and the ancient city of Volubilis.",
+  "cities": [
+    {
+      "City_En": "Casablanca",
+      "City_AR": "الدار البيضاء",
+      "History": "Casablanca is Morocco's largest city and economic hub, known for its modern architecture and the Hassan II Mosque."
+    },
+    {
+      "City_En": "Rabat",
+      "City_AR": "الرباط",
+      "History": "Rabat, the capital of Morocco, is known for its historic sites, including the Kasbah of the Udayas and Hassan Tower."
+    },
+    {
+      "City_En": "Fes",
+      "City_AR": "فاس",
+      "History": "Fes is one of Morocco's oldest cities, famous for its medieval medina and the University of Al Quaraouiyine."
+    },
+    {
+      "City_En": "Marrakech",
+      "City_AR": "مراكش",
+      "History": "Marrakech is known as the 'Red City' for its sandstone buildings and is a major cultural and tourist destination."
+    },
+    {
+      "City_En": "Tangier",
+      "City_AR": "طنجة",
+      "History": "Tangier is a historic port city that has served as a gateway between Africa and Europe for centuries."
+    }
+  ]
+}
